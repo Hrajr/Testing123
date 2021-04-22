@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBbqYzfWQXH5VcQfCz9k6bBAo8nDtNFeWEwdF6aSnV50mjjZodqTljqMY7i9Z6sq2n/o/ticXbYsiKoshs5jFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hrajr\\source\\repos\\TestingProject\\TestingProject\\TestingProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrajr\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512",
+    "C:\\Users\\hrajr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.2\\microsoft.netcore.app.host.win-x64.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
