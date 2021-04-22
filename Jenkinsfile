@@ -7,6 +7,11 @@ pipeline {
         }
     }
     stages {
+        stage('Build and Test') {
+            steps {
+                sh 'MsBuild.exe /t:Rebuild'
+            }
+        }
         stage('Sonar') {
             steps {
                 sh "mvn sonar:sonar -Dsonar.host.url=http://host.docker.internal:9000/"
